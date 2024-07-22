@@ -1,6 +1,12 @@
 
 # Online Shop
 
+![Local Image](https://github.com/Sahan-Kaushalya/Onlineshop/blob/c5d871bbefa2d39e2e66bd13ab40a87a0b635e67/Macbook-Air-localhost.png)
+
+![Local Image](https://github.com/Sahan-Kaushalya/Onlineshop/blob/c5d871bbefa2d39e2e66bd13ab40a87a0b635e67/Macbook-Air-localhost%20(1).png)
+
+
+
 ## Overview
 This is a PHP-based online shopping platform that allows users to browse, search, and purchase products. The platform includes features for user authentication, product management, cart management, order processing, and administrative reporting.
 
